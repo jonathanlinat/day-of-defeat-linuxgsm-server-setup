@@ -1,4 +1,4 @@
-# Day of Defeat: Set up a server with LinuxGS
+# Day of Defeat: Set up a server with LinuxGSM
 
 This guide will walk you through setting up a Day of Defeat server using Linux Game Server Managers (LinuxGSM), providing detailed instructions to ensure a smooth setup process.
 
