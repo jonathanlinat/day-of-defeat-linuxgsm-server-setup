@@ -17,12 +17,13 @@ This setup guide involves several key components:
 
 - **ReHLDS**: Check out the [GitHub Repository](https://github.com/dreamstalker/rehlds) for enhanced server performance and security
 - **Metamod-r**: Access various mods through the [Releases Page](https://github.com/theAsmodai/metamod-r/releases)
+- **AMX Mod X**: For advanced scripting capabilities and custom plugins, visit the [official website](https://www.amxmodx.org/)
 
 ## Prerequisites
 
 Before diving into the server setup, make sure you have:
 
-- A Virtual Private Server (VPS) or a dedicated server at home. A VPS serves as a remote host for your game server.
+- A Virtual Private Server (VPS) or a dedicated server at home.
 - Familiarity with basic Linux commands and server administration.
 
 For an introduction to VPS and options, see [Google Cloud's VPS Explanation](https://cloud.google.com/learn/what-is-a-virtual-private-server). For VPS hosting, [Namecheap](https://www.namecheap.com/hosting/vps/) offers a range of services.
