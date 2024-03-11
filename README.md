@@ -23,8 +23,8 @@ This setup guide involves several key components:
 
 Before diving into the server setup, make sure you have:
 
-- A Virtual Private Server (`VPS`) or a dedicated server at home.
-- Familiarity with basic Linux commands and server administration.
+- A `Virtual Private Server` (aka `VPS`) or a dedicated server at home.
+- Familiarity with basic `Linux` commands and server administration.
 
 For an introduction to `VPS` and options, see [Google Cloud's VPS Explanation](https://cloud.google.com/learn/what-is-a-virtual-private-server). For VPS hosting, [Namecheap](https://www.namecheap.com/hosting/vps/) offers a range of services.
 
