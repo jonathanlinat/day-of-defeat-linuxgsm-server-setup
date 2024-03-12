@@ -13,7 +13,7 @@ This setup guide involves several key components:
 - **Day of Defeat**: Explore the [Steam Store Page](https://store.steampowered.com/app/30/Day_of_Defeat/)
 - **LinuxGSM**: Visit the [Official Website](https://linuxgsm.com/) for more info
 
-### Enhancements
+### Mods and Tools
 
 - **ReHLDS**: Check out the [GitHub Repository](https://github.com/dreamstalker/rehlds) for enhanced server performance and security
 - **Metamod-r**: Access various mods through the [Releases Page](https://github.com/theAsmodai/metamod-r/releases)
