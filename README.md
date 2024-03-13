@@ -1,6 +1,6 @@
 # Day of Defeat: Set up a server with LinuxGSM
 
-Welcome to the comprehensive guide for setting up a **Day of Defeat** server using `Linux Game Server Manager` (aka `LinuxGSM`). Below, you'll find detailed steps and resources to ensure a hassle-free server setup.
+Welcome to the comprehensive guide for setting up a **Day of Defeat** server using `Linux Game Server Manager` (`LinuxGSM`). Below, you'll find detailed steps and resources to ensure a hassle-free server setup.
 
 | 💬 Join an Active Community |
 | --------------------------- |
@@ -23,7 +23,7 @@ This setup guide involves several key components:
 
 Before diving into the server setup, make sure you have:
 
-- A `Virtual Private Server` (aka `VPS`) or a dedicated server at home.
+- A `Virtual Private Server` (`VPS`) or a dedicated server at home.
 - Familiarity with basic `Linux` commands and server administration.
 
 For an introduction to `VPS` and options, see [Google Cloud's VPS Explanation](https://cloud.google.com/learn/what-is-a-virtual-private-server). For VPS hosting, [Namecheap](https://www.namecheap.com/hosting/vps/) offers a range of services.
