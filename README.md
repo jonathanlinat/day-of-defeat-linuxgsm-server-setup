@@ -1,6 +1,6 @@
-# Day of Defeat: Set up a server with LinuxGSM
+# Day of Defeat 1.3: Set up a server with LinuxGSM
 
-Welcome to the comprehensive guide for setting up a **Day of Defeat** server using `Linux Game Server Manager` (`LinuxGSM`). Below are detailed steps and resources to ensure a hassle-free server setup.
+Welcome to the comprehensive guide for setting up a **Day of Defeat** (`1.3`) server using `Linux Game Server Manager` (`LinuxGSM`). Below are detailed steps and resources to ensure a hassle-free server setup.
 
 | 💬 Join an Active Community |
 | --------------------------- |
