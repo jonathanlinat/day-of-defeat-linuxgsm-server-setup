@@ -1,6 +1,6 @@
 # Day of Defeat: Set up a server with LinuxGSM
 
-Welcome to the comprehensive guide for setting up a **Day of Defeat** server using `Linux Game Server Manager` (`LinuxGSM`). Below, you'll find detailed steps and resources to ensure a hassle-free server setup.
+Welcome to the comprehensive guide for setting up a **Day of Defeat** server using `Linux Game Server Manager` (`LinuxGSM`). Below are detailed steps and resources to ensure a hassle-free server setup.
 
 | 💬 Join an Active Community |
 | --------------------------- |
@@ -15,9 +15,9 @@ This setup guide involves several key components:
 
 ### Mods and Tools
 
-- **ReHLDS**: Check out the [GitHub Repository](https://github.com/dreamstalker/rehlds) for enhanced server performance and security
-- **Metamod-r**: Access various mods through the [Releases Page](https://github.com/theAsmodai/metamod-r/releases)
-- **AMX Mod X**: For advanced scripting capabilities and custom plugins, visit the [official website](https://www.amxmodx.org/)
+- **ReHLDS** (`3.13.0.788`): Check out the [GitHub Repository](https://github.com/dreamstalker/rehlds) for enhanced server performance and security
+- **Metamod-r** (`1.3.0.138`): Access various mods through the [Releases Page](https://github.com/theAsmodai/metamod-r/releases)
+- **AMX Mod X** (`1.10.0-git5467`): For advanced scripting capabilities and custom plugins, visit the [official website](https://www.amxmodx.org/)
 
 ## Prerequisites
 
