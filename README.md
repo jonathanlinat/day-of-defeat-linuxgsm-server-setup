@@ -30,4 +30,4 @@ For an introduction to `VPS` and options, see [Google Cloud's VPS Explanation](h
 
 ## Getting Started
 
-Ready to launch your server? Follow the detailed [installation and setup guide](https://github.com/jonathanlinat/day-of-defeat-linuxgsm-server-setup/wiki) to begin your journey.
+🎉 Ready to launch your server? Follow the detailed [installation and setup guide](https://github.com/jonathanlinat/day-of-defeat-linuxgsm-server-setup/wiki) to begin your journey.
