@@ -16,7 +16,7 @@ This setup guide involves several key components:
 ### Mods and Tools
 
 - **ReHLDS** (`3.13.0.788`): Check out the [GitHub Repository](https://github.com/dreamstalker/rehlds) for enhanced server performance and security
-- **Metamod-r** (`1.3.0.149`): Access various mods through the [Releases Page](https://github.com/theAsmodai/metamod-r/releases)
+- **Metamod-R** (`1.3.0.149`): Access various mods through the [Releases Page](https://github.com/theAsmodai/metamod-r)
 - **AMX Mod X** (`1.10.0-git5467`): For advanced scripting capabilities and custom plugins, visit the [official website](https://www.amxmodx.org/)
 
 ## Prerequisites
